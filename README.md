@@ -1,5 +1,5 @@
-# Project4-Group2
-Team Stars and Stats: A Glance at Medicare from Rating to Retention
+# Team Stars and Stats: A Glance at Medicare from Rating to Retention 
+Project4-Group2
 
 # Project Brief
 Star ratings are synonymous with the world of consumerization, influencing opinions and purchasing behavior – but is the same true in the world of healthcare?  Team Stars & Stats plan to look under the hood of Medicare Plan star ratings – ratings typically aggregated as one overall number but represent individual value of care scores that consumers weigh differently.  
