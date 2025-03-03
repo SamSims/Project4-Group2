@@ -1,0 +1,81 @@
+Feature,Importance
+Year,0.0006536731554944664
+C Breast Cancer Screening,0.007370682975505673
+C Colorectal Cancer Screening,0.03682647140925033
+C Cardiovascular Care – Cholesterol Screening,0.0005189924870442282
+C Diabetes Care – Cholesterol Screening,0.000785096307663211
+C Glaucoma Testing,0.00042528773455518794
+C Annual Flu Vaccine,0.02752642686606961
+C Improving or Maintaining Physical Health,0.0075362386255489805
+C Improving or Maintaining Mental Health,0.0011389364501539292
+C Monitoring Physical Activity,0.01781342127043746
+C Adult BMI Assessment,0.02885335999890673
+C Care for Older Adults – Medication Review,0.0008701971709292383
+C Care for Older Adults – Functional Status Assessment,0.0008880113729941606
+C Care for Older Adults – Pain Screening,0.00024361682768902793
+C Osteoporosis Management in Women who had a Fracture,0.0012020913345559573
+C Diabetes Care – Eye Exam,0.06000420051406293
+C Diabetes Care – Kidney Disease Monitoring,0.044995219701858984
+C Diabetes Care – Blood Sugar Controlled,0.06941077746723288
+C Diabetes Care – Cholesterol Controlled,0.0008354658384539701
+C Controlling Blood Pressure,0.0008097722270898484
+C Rheumatoid Arthritis Management,0.023122167305463386
+C Improving Bladder Control,0.0010458151593835177
+C Reducing the Risk of Falling,0.001381855517938488
+C Plan All-Cause Readmissions,0.04345462639874311
+C Getting Needed Care,0.001818344608921472
+C Getting Appointments and Care Quickly,0.02701977129734807
+C Customer Service,0.00990749277386565
+C Rating of Health Care Quality,0.03337503538482737
+C Rating of Health Plan,0.035777468791905805
+C Care Coordination,0.0018253536213748548
+C Complaints about the Health Plan,0.034239046791805054
+C Beneficiary Access and Performance Problems,0.0005496737378822017
+C Members Choosing to Leave the Plan,0.02709196358731166
+C Health Plan Quality Improvement,0.02107435106659677
+C Plan Makes Timely Decisions about Appeals,0.0014998576688305604
+C Reviewing Appeals Decisions,0.0010717970864193023
+C Call Center – Foreign Language Interpreter and TTY Availability,0.0010736336314480866
+"HD1: Staying Healthy: Screenings, Tests and Vaccines",0.06369297281772293
+HD2: Managing Chronic (Long Term) Conditions,0.04205252176357173
+HD3: Member Experience with Health Plan,0.08182285212208291
+"HD4: Member Complaints, Problems Getting Services, and Improvement in the Health Plan's Performance",0.0004771962756567108
+HD5: Health Plan Customer Service,0.0008056947703806694
+SNP,0.00042796218875641354
+Part C Summary,0.13514444300615713
+D Call Center – Foreign Language Interpreter and TTY Availability,0.0021774771073719435
+D Appeals Auto–Forward,0.005088208907622774
+D Appeals Upheld,0.0006644022824923227
+D Complaints about the Drug Plan,0.011171232540196687
+D Beneficiary Access and Performance Problems,0.0006452649373442742
+D Members Choosing to Leave the Plan,0.02556667643834501
+D Drug Plan Quality Improvement,0.0034698615101472494
+D Rating of Drug Plan,0.005184508923398038
+D Getting Needed Prescription Drugs,0.0026696077384000703
+D MPF Price Accuracy,0.0038939168810670404
+D High Risk Medication,0.0008376508165296415
+D Diabetes Treatment,0.0009240899541553775
+D Medication Adherence for Diabetes Medications ,0.0005430731889746918
+D Medication Adherence for Hypertension (RAS antagonists) ,0.0008639046328814733
+D Medication Adherence for Cholesterol (Statins) ,0.0006863250986015029
+DD1: Drug Plan Customer Service,0.0019970448950396417
+"DD2: Member Complaints, Problems Getting Services, and Improvement in the Drug Plan’s Performance ",0.0002183739159374098
+DD3: Member Experience with the Drug Plan,0.008794038065474396
+DD4: Patient Safety and Accuracy of Drug Pricing,0.0003151696506029069
+Part D Summary,0.01198625496461511
+C Special Needs Plan (SNP) Care Management,0.0006993314418021806
+C Care for Older Adults – Pain Assessment,0.0006614401112649974
+HD4: Member Complaints and Changes in the Health Plan's Performance,0.001386278667064526
+DD2: Member Complaints and Changes in the Drug Plan’s Performance,0.0019480810334082284
+DD4: Drug Safety and Accuracy of Drug Pricing,0.0018428996888531781
+D Medication Adherence for Diabetes Medications,0.0013684339702693706
+D Medication Adherence for Hypertension (RAS antagonists),0.001367518796997528
+D Medication Adherence for Cholesterol (Statins),0.0014838592192992282
+D MTM Program Completion Rate for CMR,0.0011478229321248523
+C Medication Reconciliation Post-Discharge,0.0006383232693400392
+C Statin Therapy for Patients with Cardiovascular Disease,0.00041616020395516997
+D Statin Use in Persons with Diabetes (SUPD),0.0004948416081340702
+C Controlling High Blood Pressure,0.0
+C Transitions of Care,0.0
+C Follow-up after Emergency Department Visit for People with Multiple High-Risk Chronic Conditions,0.0
+Standardized Enrollment,0.00038808949839850795
