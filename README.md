@@ -32,9 +32,9 @@ CMS Medicare Enrollment Data
 Only a few years of Medicare Disenrollment is publicized in the CMS files.  It did not become a mandatory reporting requirement until the passing of the 21st Century Cures Act, starting in 2020 so we excluded this data from the modeling.
 
 # Models Used
-> Linear Regression: Though this rendered a high level of accuracy for predicting overall star ratings (98% accuracy), it was not as successful doing the same for enrollment (73% accuracy)
-> Random Forest: This was able to calculate feature importance for both Star Rating and Enrollment in order for us to understand how much each feature contributes to making accurate predictions.
-> Keras-Tuner
+  > Linear Regression: Though this rendered a high level of accuracy for predicting overall star ratings (98% accuracy), it was not as successful doing the same for enrollment (73% accuracy)
+  > Random Forest: This was able to calculate feature importance for both Star Rating and Enrollment in order for us to understand how much each feature contributes to making accurate predictions.
+  > Keras-Tuner
 
 
 
