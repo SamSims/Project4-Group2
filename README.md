@@ -8,7 +8,7 @@ By analyzing and modeling this vast data set, we want to understand if star rati
 
 ## Do star ratings drive consumer choice? 
 ## If they do, which insurer will people predominantly go with the following year?  
-## Which sub-category of coverage is ranked highest?
+## Which sub-category of coverage has the largest impact on a plan's Star Rating or on Enrollment?
 
 # Scope
 CMS Medicare Data (Star Rating and Enrollment Data) 2013-2023
