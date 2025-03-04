@@ -33,8 +33,17 @@ Only a few years of Medicare Disenrollment is publicized in the CMS files.  It d
 
 # Models Used
   > Linear Regression: Though this rendered a high level of accuracy for predicting overall star ratings (98% accuracy), it was not as successful doing the same for enrollment (73% accuracy)
+
   > Random Forest: This was able to calculate feature importance for both Star Rating and Enrollment in order for us to understand how much each feature contributes to making accurate predictions.
-  > Keras-Tuner
+
+  > Keras-Tuner: This model was able to find the best model parameters for greatest accuracy
+
+  > Deep Learning Model: Using Epochs to find how well accurate Standardized Enrollment is against the rest of the data
+    1.  1st attpempt: 72% accuracy
+    2.  2nd attempt: 72% accuracy
+    3.  3rd attempt: 73% accuracy
+
+
 
 
 
