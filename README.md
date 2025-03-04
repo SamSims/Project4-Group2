@@ -43,7 +43,8 @@ Only a few years of Medicare Disenrollment is publicized in the CMS files.  It d
     2.  2nd attempt: 72% accuracy
     3.  3rd attempt: 73% accuracy
 
-
+# Final Analysis
+Though Consumers tend to weigh heavily on Consumer ratings for everyday items (e.g. Amazon, TripAdvisor, Yelp, etc), it seems that the level of popularity is not the same for Medicare Healthcare star ratings (as of yet).  One of the main reasons is likely because it's not a true Consumer Rating; it's analyzed and weighted by 3rd parties. The other reason(s) could be related to data and time that we didn't have to run further analysis: advertising impact, brand recognition scores, broker outreach, price (premiums/OOP), and disenrollment rates.
 
 
 
